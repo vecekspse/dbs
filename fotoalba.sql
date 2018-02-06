@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Databáze: `fotobalba`
+-- Databáze: `fotoalba`
 --
 CREATE DATABASE IF NOT EXISTS `fotoalba` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_czech_ci;
-USE `fotobalba`;
+USE `fotoalba`;
 
 -- --------------------------------------------------------
 
